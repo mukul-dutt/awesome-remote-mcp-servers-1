@@ -2598,6 +2598,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
+- [ScraperSocial](https://scrapersocial.com) `https://mcp.scrapersocial.com`
+  🔐 - Public data from 33 platforms (TikTok, Instagram, LinkedIn, YouTube, Reddit, and more) as clean JSON: transcripts, profiles, stats, comments, and search. 227 endpoints, one key, free tier.
 - [SocialAPIs](https://socialapis.io) `https://mcp.socialapis.io/mcp`
   [![SocialAPIs MCP connector](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api)
   🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.
